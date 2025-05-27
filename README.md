@@ -45,7 +45,7 @@ git clone https://github.com/imlosing07/GitfFish-buyExample.git
 
 | **Product Table View** | **Purchase Summary** |
 |------------------------|---------------------|
-| *(Add your screenshots here!)* | *(Showcase your compiled project!)* |
+| ![Table View](screenshots/screenshotTableProducts.png) | ![Purchase list](screenshots/screenshotPurchase.png) |
 
 ---
 
